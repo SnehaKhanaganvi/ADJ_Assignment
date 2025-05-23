@@ -5,6 +5,7 @@ defined function isNullOrEmpty().
 
 Q2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()
+https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/3b_String_Exercise.java/SubstringCount.PNG
 
 
 Q3. Write a Java Program for Reversing the characters in a string using user defined function
