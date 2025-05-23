@@ -5,5 +5,6 @@
    https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1b_ArrayLIst_Exercise.java/ColorSort.java
 
 5. Write a java program for getting different colors through ArrayList interface and extract the  elements 1st and 2nd from the ArrayList object by using SubList()  
-6. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object by using remove by index 
+6. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object by using remove by index
+   https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1b_ArrayLIst_Exercise.java/ColorDelete.PNG
 
