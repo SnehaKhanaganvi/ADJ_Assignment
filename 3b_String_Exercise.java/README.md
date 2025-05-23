@@ -1,7 +1,7 @@
 
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
-
+https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/3b_String_Exercise.java/3b1_StringCheck.png
 
 Q2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()
