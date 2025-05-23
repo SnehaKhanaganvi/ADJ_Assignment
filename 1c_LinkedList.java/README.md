@@ -5,3 +5,5 @@ https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1c_LinkedList.java/R
 https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1c_LinkedList.java/SwapElementsInLinkedList.PNG
 
 https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1c_LinkedList.java/InsertElementAtEnd.PNG
+
+https://github.com/SnehaKhanaganvi/ADJ_Assignment/blob/main/1c_LinkedList.java/IterateFromSecondElement.PNG
